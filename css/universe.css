@@ -1,0 +1,13 @@
+body {
+  background-image: url(../assets/universe3.png);
+}
+
+section {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 2.4rem;
+
+  margin: 6.3rem 10.2rem auto 10.2rem;
+  max-width: 64.8rem;
+}

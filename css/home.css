@@ -1,0 +1,26 @@
+section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 2.4rem;
+
+  margin-top: 17.2rem;
+}
+
+section button {
+  padding: 1.2rem 3.2rem;
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  border-radius: 0.5rem;
+}
+
+section button {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+section button:hover {
+  background-color: #FFFFFF;
+  color: #02799D;
+}
