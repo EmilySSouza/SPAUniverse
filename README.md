@@ -12,5 +12,5 @@
 - Classes;
 - npm (lite-server)
 
-## Link 
+## Projeto
 <img src="https://i.ibb.co/XDQvBrJ/Captura-de-tela-2024-07-02-194206.png" border="0">
